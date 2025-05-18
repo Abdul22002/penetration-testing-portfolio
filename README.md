@@ -1,14 +1,10 @@
-## 👋 Welcome!
+# Penetration Testing Labs – Abdul22002
 
-I'm Abdul22002 – an aspiring penetration tester with a passion for hands-on ethical hacking and security tool development.
+This repository showcases hands-on penetration testing skills through the exploitation of vulnerable virtual machines from VulnHub. It includes:
 
-🔐 **Check out my featured lab portfolio:**  
-[👉 Penetration Testing Labs on GitHub](https://github.com/Abdul22002/penetration-testing-labs)
+- Detailed walkthroughs for DC-1 and MrRobot
+- Custom Python tools for network scanning and brute-forcing
+- Professional penetration test reports
+- Screenshots documenting the exploitation process
 
-🛠️ This project includes:
-- Vulnerability exploitation walkthroughs
-- Custom-built Python tools
-- Professional pentest reports
-- Step-by-step recon, enumeration, and privilege escalation
-
-💼 I'm looking for internships or roles in cybersecurity – feel free to connect!
+Feel free to explore and reach out for collaborations or inquiries.
